@@ -1,0 +1,3 @@
+The Arioso theme uses Cloud Zoom to display product images/thumbnails.  Works great!  However, if you select a new product variant option, the correct product image is not displayed.  Also, if you click on product thumbnail, the thumbnail image is now main image, but product variant option in drop-down menu has not changed.  This is a problem if the product is then added to cart, because often the customer thinks they are adding the displayed product variant, instead of the product variant selected in the drop-down menu.
+
+Anyway, there are a couple more complex js solutions to this issue if you look thru the Shopify forums, but I wanted something more lightweight...  
