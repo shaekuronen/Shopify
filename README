@@ -1,6 +1,6 @@
 The Arioso theme uses Cloud Zoom to display product images/thumbnails.  Works great!  
 However, if you select a new product variant option, the correct product image is not displayed.  
-Also, if you click on product thumbnail, the thumbnail image is now main image.
+Also, if you click on product thumbnail, the thumbnail image is now featured image.
 However, the product variant option in drop-down menu has not changed.  
 This is a problem if the product is then added to cart, 
 because often the customer thinks they are adding the displayed product variant, 
